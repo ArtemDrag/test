@@ -1,0 +1,8 @@
+﻿  MemoryGame.cpp
+C:\Users\Artem\source\repos\MemoryGame\MemoryGame\MemoryGame.cpp(56,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Artem\source\repos\MemoryGame\MemoryGame\MemoryGame.cpp(57,7): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\Users\Artem\source\repos\MemoryGame\MemoryGame\MemoryGame.cpp(58,7): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\Users\Artem\source\repos\MemoryGame\MemoryGame\MemoryGame.cpp(59,7): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\Users\Artem\source\repos\MemoryGame\MemoryGame\MemoryGame.cpp(61,7): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\Users\Artem\source\repos\MemoryGame\MemoryGame\MemoryGame.cpp(71,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MemoryGame.vcxproj -> C:\Users\Artem\source\repos\MemoryGame\Debug\MemoryGame.exe
